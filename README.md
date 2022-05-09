@@ -18,7 +18,7 @@ const test = "javascrip test";
 ```
 
 ```python
-//python
+#python
 test = "testing python"
 ```
 
