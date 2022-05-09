@@ -13,17 +13,24 @@ I’m currently learning React.js to become a junior developer.
 "https://www.linkedin.com/in/victor-gri%C3%B1an-892a741b7/".
 
 ```javascript
-//Javascript
+//javascript
 const test = "javascrip test";
 ```
 
 ```python
+//python
 test = "testing python"
 ```
 
 ```c
 char test[11];
 test = "c lang test"; 
+```
+
+```php
+<?php
+$test = "php str test";
+?>
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
