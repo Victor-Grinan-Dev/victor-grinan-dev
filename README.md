@@ -33,7 +33,7 @@ $test = "php str test";
 ?>
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Grinan-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />  
@@ -53,7 +53,7 @@ $test = "php str test";
 
 
 
-**Victor-python/Victor-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Victor-Grinan-Dev/Victor-Grinan-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
