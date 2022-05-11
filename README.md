@@ -23,11 +23,13 @@ test = "testing python"
 ```
 
 ```c
+//c 
 char test[11];
 test = "c lang test"; 
 ```
 
 ```php
+//php
 <?php
 $test = "php str test";
 ?>
