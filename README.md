@@ -1,13 +1,7 @@
-### Hi there 👋 😄 
-
-## I'm Victor, a junior developer.
-
-## Instagram 📫  
-"https://www.instagram.com/victor_grinan_dev/".
-
-## Linkedin 📫
-"https://www.linkedin.com/in/victor-gri%C3%B1an-892a741b7/".
-
+### Hi there 👋 😄 I'm Victor, a junior developer.
+📫
+-   Instagram: "https://www.instagram.com/victor_grinan_dev/".
+-   Linkedin: "https://www.linkedin.com/in/victor-gri%C3%B1an-892a741b7/".
 ```javascript
 const test = "javascrip test";
 ```
@@ -23,7 +17,6 @@ test = "c lang test";
 $test = "php str test";
 ?>
 ```
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Grinan-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
