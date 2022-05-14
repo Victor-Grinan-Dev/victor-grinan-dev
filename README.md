@@ -1,10 +1,6 @@
 ### Hi there 👋 😄 
 
-## I'm Victor
-
-I’m currently learning React.js to become a junior developer.
-
-### Find me in 
+## I'm Victor, a junior developer.
 
 ## Instagram 📫  
 "https://www.instagram.com/victor_grinan_dev/".
@@ -13,23 +9,16 @@ I’m currently learning React.js to become a junior developer.
 "https://www.linkedin.com/in/victor-gri%C3%B1an-892a741b7/".
 
 ```javascript
-//javascript
 const test = "javascrip test";
 ```
-
 ```python
-#python
 test = "testing python"
 ```
-
 ```c
-//c 
 char test[11];
 test = "c lang test"; 
 ```
-
 ```php
-//php
 <?php
 $test = "php str test";
 ?>
