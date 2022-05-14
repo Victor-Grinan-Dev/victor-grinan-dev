@@ -1,7 +1,7 @@
 ### Hi there 👋 😄 I'm Victor, a junior developer.
 
 ```javascript
-const test = "javascrip test";
+const test = "javascript test";
 ```
 ```python
 test = "testing python"
