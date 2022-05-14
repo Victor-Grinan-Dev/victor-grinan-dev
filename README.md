@@ -7,8 +7,7 @@ const test = "javascrip test";
 test = "testing python"
 ```
 ```c
-char test[11];
-test = "c lang test"; 
+char test = "c lang test"; 
 ```
 ```php
 <?php
