@@ -1,7 +1,5 @@
 ### Hi there 👋 😄 I'm Victor, a junior developer.
-📫
--   Instagram: "https://www.instagram.com/victor_grinan_dev/".
--   Linkedin: "https://www.linkedin.com/in/victor-gri%C3%B1an-892a741b7/".
+
 ```javascript
 const test = "javascrip test";
 ```
