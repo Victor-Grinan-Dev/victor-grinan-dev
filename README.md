@@ -52,3 +52,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫
+-   Instagram: "https://www.instagram.com/victor_grinan_dev/".
+-   Linkedin: "https://www.linkedin.com/in/victor-gri%C3%B1an-892a741b7/".
