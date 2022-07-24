@@ -1,4 +1,4 @@
-### Hi there 👋 😄 I'm Victor, a junior developer.
+### Hi there 👋 😄 I'm Victor, a junior web developer.
 
 ```javascript
 const test = "javascript test";
