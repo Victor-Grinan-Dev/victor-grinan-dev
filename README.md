@@ -1,7 +1,7 @@
 ### Hi there 👋 😄 I'm Victor, a junior web developer.
 
 ```javascript
-const reactjs = "Currentntly learning at Helsinki Busines College";
+const reactJs_and_ts = "Currentntly learning at Helsinki Busines College";
 ```
 ```php
 <?php
