@@ -1,19 +1,20 @@
 ### Hi there 👋 😄 I'm Victor, a junior web developer.
 
 ```javascript
-const test = "javascript test";
-```
-```python
-test = "testing python"
-```
-```c
-char test = "c lang test"; 
+const reactjs = "currentntly learning at Helsinki Busines College";
 ```
 ```php
 <?php
-$test = "php str test";
+$php_simfony = "learned the basics at Helsinki Busines College 2022";
 ?>
 ```
+```python
+python_lang = "learned the basics Code Academy, learning Django by myself"
+```
+```c
+char c_lang = "learned the basics in Hive Helsinki piscine 2021"; 
+```
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Grinan-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p>
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
