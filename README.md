@@ -1,11 +1,11 @@
 ### Hi there 👋 😄 I'm Victor, a junior web developer.
 
 ```javascript
-const reactJs_and_ts = "Currentntly learning at Helsinki Busines College";
+const reactJs_and_ts = "Currentntly learning at Helsinki Business College";
 ```
 ```php
 <?php
-$php_simfony = "Learned the basics at Helsinki Busines College 2022";
+$php_simfony = "Learned the basics at Helsinki Business College 2022";
 ?>
 ```
 ```python
