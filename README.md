@@ -15,7 +15,7 @@ python_lang = "Advance level, learning Django by myself"
 char c_lang = "learned the basics in Hive Helsinki piscine 2021"; 
 ```
 ```c++
-char cpp = "learned the basics in youtube during 2020"; 
+char cpp = "C++ C# learned the basics in youtube during 2020"; 
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Grinan-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
