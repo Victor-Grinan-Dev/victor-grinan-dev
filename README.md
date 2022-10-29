@@ -1,4 +1,4 @@
-### Hi there 👋 😄 I'm Victor, a junior web developer.
+### Hi there 👋 😄 I'm Victor, a junior developer.
 
 ```javascript
 const reactJs_and_ts = "Currentntly learning at Helsinki Business College";
