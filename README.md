@@ -24,7 +24,7 @@ char cpp = "C++ C# learned the basics in youtube during 2020";
 </p>
 
           
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Grinan-Dev&show_icons=true) 
 
 <!--
 <p>
