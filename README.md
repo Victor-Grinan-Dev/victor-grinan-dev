@@ -1,5 +1,10 @@
 ### Hi there 👋 😄 I'm Victor, a junior developer.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Grinan-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</p>
+
 ```javascript
 const reactJs_and_ts = "Currentntly learning at Helsinki Business College";
 ```
@@ -17,12 +22,6 @@ char c_lang = "learned the basics in Hive Helsinki piscine 2021";
 ```c++
 char cpp = "C++ C# learned the basics in youtube during 2020"; 
 ```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Grinan-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p>
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</p>
-
           
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Grinan-Dev&show_icons=true) 
 
