@@ -14,7 +14,7 @@ $php_simfony = "Learned the basics at Helsinki Business College 2022";
 ?>
 ```
 ```python
-python_lang = "Advanced level, learning Django and flask by myself"
+python_lang = "Advanced level from SDA, learning Django and flask by myself"
 ```
 ```c
 char c_lang = "learned the basics in Hive Helsinki piscine 2021"; 
