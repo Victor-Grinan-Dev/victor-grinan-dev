@@ -1,4 +1,4 @@
-### Hi there 👋 😄 I'm Victor, a Web developer.
+### Hi there 👋 😄 I'm Victor, a Web Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Grinan-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p>
