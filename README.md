@@ -6,7 +6,7 @@
 </p>
 
 ```javascript
-const reactJs_and_ts = "Currentntly learning at Helsinki Business College";
+const reactJs   = "Advance level learned at Helsinki Business College 2022";
 ```
 ```php
 <?php
@@ -14,13 +14,13 @@ $php_simfony = "Learned the basics at Helsinki Business College 2022";
 ?>
 ```
 ```python
-python_lang = "Advance level, learning Django by myself"
+python_lang = "Advanced level, learning Django and flask by myself"
 ```
 ```c
 char c_lang = "learned the basics in Hive Helsinki piscine 2021"; 
 ```
 ```c++
-char cpp = "C++ C# learned the basics in youtube during 2020"; 
+char cpp = "C++ C# learned the basics in youtube during 2020 (love them)"; 
 ```
           
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Grinan-Dev&show_icons=true) 
