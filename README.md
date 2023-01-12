@@ -1,10 +1,10 @@
 ### Hi there 👋 😄 I'm Victor, a Junior Developer.
 #### https://victor-grinan-dev.github.io/Portfolio/ 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Grinan-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-grinan-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p>
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Victor-Grinan-Dev=anuraghazra&hide=contribs,prs)
+
 
 ```javascript
 const reactJs   = "Advance level learned at Helsinki Business College 2022";
