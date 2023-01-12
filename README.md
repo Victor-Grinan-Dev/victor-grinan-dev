@@ -4,6 +4,7 @@
 <p>
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Victor-Grinan-Dev=anuraghazra&hide=contribs,prs)
 
 ```javascript
 const reactJs   = "Advance level learned at Helsinki Business College 2022";
