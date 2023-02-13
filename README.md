@@ -1,5 +1,4 @@
 ### Hi there 👋 😄 I'm Victor, a Junior Developer.
-#### https://victor-grinan-dev.github.io/Portfolio/ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Grinan-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p>
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -61,7 +60,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
--   Ig: "https://www.instagram.com/victor_grinan_dev/".
--   Linkedin: "www.linkedin.com/in/victor-grinan".
 
