@@ -13,14 +13,14 @@ const reactJs   = "Advance level learned at Helsinki Business College 2022";
 $php_simfony = "Learned the basics at Helsinki Business College 2022";
 ?>
 ```
-```python
-python_lang = "Advanced level from SDA, learning Django and flask by myself"
-```
 ```c
-char c_lang = "learned the basics in Hive Helsinki piscine 2021"; 
+char c_lang = "learned the very basics in Hive Helsinki piscine 2021"; 
+```
+```python
+python_lang = "Advanced level from SDA, learning Django and flask by myself, started 2020"
 ```
 ```c++
-char cpp = "C++ C# learned the basics in youtube during 2020 (love them)"; 
+char cpp = "C++ C# learned the very basics in youtube during 2019 (love them)"; 
 ```
           
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Grinan-Dev&show_icons=true) 
