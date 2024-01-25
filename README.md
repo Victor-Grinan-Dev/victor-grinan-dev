@@ -1,6 +1,6 @@
 ### Hi there 👋 😄 I'm Victor, a developer.
 
-<div styles="display: flex; flex-direction: column; align-items: center; justify-content:center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Grinan-Dev&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 <p>
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -9,7 +9,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Grinan-Dev&show_icons=true) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Grinan-Dev&theme=tokyonight" alt="mystreak"/>
-</div>
+
 <!--```javascript
 const reactJs   = "Advance level learned at Helsinki Business College 2022";
 ```
