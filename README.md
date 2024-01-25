@@ -3,8 +3,8 @@
 <p>
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </p>
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Grinan-Dev&show_icons=true) 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Grinan-Dev&theme=tokyonight" alt="mystreak"/>. 
 <!--```javascript
 const reactJs   = "Advance level learned at Helsinki Business College 2022";
 ```
@@ -23,16 +23,9 @@ python_lang = "Advanced level from SDA, learning Django and flask by myself, sta
 char cpp = "C++ C# learned the very basics in youtube during 2019 (love them)"; 
 ```-->
           
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Grinan-Dev&show_icons=true) 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=martin-holland&label=Profile%20views&color=0e75b6&style=plastic" alt="martin-holland" /> </p>
 
 
-### Statistics 🚀
 
-<!--![martin-holland's github stats](https://github-readme-stats.vercel.app/api?username=martin-holland&show_icons=true&theme=tokyonight). -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Grinan-Dev&theme=tokyonight" alt="mystreak"/>. 
 
 
 
