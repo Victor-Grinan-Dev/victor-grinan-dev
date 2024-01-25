@@ -51,7 +51,7 @@ char cpp = "C++ C# learned the very basics in youtube during 2019 (love them)";
   
 </p>
 
-#### Learning 🌱:
+<!--#### Learning 🌱:
 <p align="left"> 
 <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
@@ -59,7 +59,7 @@ char cpp = "C++ C# learned the very basics in youtube during 2019 (love them)";
   &emsp;
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
-</p>
+</p>-->
 
 
 ### Tools:  🛠️
