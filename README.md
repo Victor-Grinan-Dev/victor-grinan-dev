@@ -88,17 +88,18 @@ char cpp = "C++ C# learned the very basics in youtube during 2019 (love them)";
 <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>. 
 
 <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a>
+<a href="#"><img alt="vercel" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7"></a>
 &emsp;
 
+
+
+<!--### Social Media - You can find me here!
 <i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
-### Social Media - You can find me here!
-
 <a href="https://www.linkedin.com/in/martin-holland-5099071b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 &emsp;
 <a href="https://www.facebook.com/martin.wiggins.54" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-&emsp;
+&emsp;-->
 
 <!--
 <p>
