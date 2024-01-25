@@ -28,9 +28,8 @@ python_lang = "Advanced level from SDA, learning Django and flask by myself, sta
 char cpp = "C++ C# learned the very basics in youtube during 2019 (love them)"; 
 ```-->
           
-### Programming Languages 🌐
+### Tacnologies 🛠️
 
-#### Known / Use 📚:
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -62,19 +61,6 @@ char cpp = "C++ C# learned the very basics in youtube during 2019 (love them)";
   
 </p>
 
-<!--#### Learning 🌱:
-<p align="left"> 
-<a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-</p>-->
-
-
-### Tools:  🛠️
-
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions)
 &emsp;
 <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
@@ -89,12 +75,6 @@ char cpp = "C++ C# learned the very basics in youtube during 2019 (love them)";
 &emsp;
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 &emsp;
-
-
-
-
-### Databases / Hosting:
-
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
 &emsp;
 <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>. 
@@ -104,7 +84,15 @@ char cpp = "C++ C# learned the very basics in youtube during 2019 (love them)";
 &emsp;
 
 
-
+<!--#### Learning 🌱:
+<p align="left"> 
+<a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  &emsp;
+</p>-->
 <!--### Social Media - You can find me here!
 <i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
