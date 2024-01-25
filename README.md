@@ -58,7 +58,7 @@ char cpp = "C++ C# learned the very basics in youtube during 2019 (love them)";
    </a>
     &emsp;
     
-  height="40"/> </a> <a      href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"></a>
   
 </p>
 
